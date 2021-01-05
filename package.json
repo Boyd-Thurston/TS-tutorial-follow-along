@@ -1,0 +1,23 @@
+{
+  "name": "ts-tutorial-follow-along",
+  "version": "1.0.0",
+  "description": "follow along practice for tutorial https://www.youtube.com/watch?v=BwuLxPH8IDs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "light-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyd-Thurston/TS-tutorial-follow-along.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boyd-Thurston/TS-tutorial-follow-along/issues"
+  },
+  "homepage": "https://github.com/Boyd-Thurston/TS-tutorial-follow-along#readme",
+  "devDependencies": {
+    "light-server": "^2.9.1"
+  }
+}
